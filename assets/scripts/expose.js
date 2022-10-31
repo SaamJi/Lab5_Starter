@@ -1,6 +1,7 @@
 // expose.js
 
 window.addEventListener('DOMContentLoaded', init);
+const jsConfetti = new JSConfetti();
 
 function init() {
   // TODO
@@ -74,7 +75,6 @@ function init() {
     // console.log("Checking if party horn is selected");
     // console.log(document.getElementById("horn-select").value);
     if (document.getElementById("horn-select").value == "party-horn") {
-      const jsConfetti = new JSConfetti();
       jsConfetti.addConfetti();
       // console.log('Confetti added');
     }
