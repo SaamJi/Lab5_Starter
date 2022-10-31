@@ -1,3 +1,3 @@
 # Lab 5
 Name: Bochen Ji; ID: A15956834. Partner: None. </br>
-Link: https://github.com/SaamJi/Lab5_Starter/blob/master/expose.html </br>
+Link: https://saamji.github.io/Lab5_Starter/ </br>
